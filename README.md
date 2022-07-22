@@ -15,5 +15,9 @@ Now it will return a link that you can copy paste and the victims info will be s
 
 
 
+
+
+
+
 This is for educational purposes only
 I do not take an responsibility for actions that people use this for\
